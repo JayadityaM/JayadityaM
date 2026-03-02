@@ -1,6 +1,6 @@
 # Hi, I'm Jayaditya Mazumdar! 👋
 
-I am a Generative AI Developer and AI Systems Builder focused on designing intelligent, production-ready applications powered by Large Language Models (LLMs). My work revolves around building RAG pipelines, AI agents, and scalable backend architectures that bridge research and real-world deployment.
+I am a Gen AI Developer and AI Systems Builder focused on designing intelligent, production-ready applications powered by Large Language Models (LLMs). My work revolves around building RAG pipelines, AI agents, and scalable backend architectures that bridge research and real-world deployment.
 
 
 ---
@@ -10,17 +10,17 @@ I am a Generative AI Developer and AI Systems Builder focused on designing intel
 - 🤖 Passionate about Generative AI, LLM systems, and AI agent workflows.
 - 🧠 Building Retrieval-Augmented Generation (RAG) pipelines and semantic search systems.
 - ⚙️ Designing scalable backend architectures for AI-powered applications.
-- ☁️ Working with cloud AI services like AWS Bedrock.
+- ☁️ Working with cloud AI services like AWS.
 - 🔍 Focused on turning experimental AI prototypes into production-ready systems.
 
 ---
 
 ## 🧠 AI Projects
 
-- 🔹 LLM-powered RAG application with OpenSearch vector database.
-- 🔹 Multi-agent workflow using LangGraph.
-- 🔹 AI-assisted backend system built with FastAPI.
-- 🔹 Bedrock-based LLM integration with tool binding.
+🔹 LLM-powered RAG application with OpenSearch vector database.
+🔹 Multi-agent workflow using LangGraph.
+🔹 AI-assisted backend system built with FastAPI.
+🔹 Bedrock-based LLM integration with tool binding.
 
 ---
 
@@ -31,12 +31,10 @@ I am a Generative AI Developer and AI Systems Builder focused on designing intel
 ### 🤖 AI / GenAI Stack
 - LangChain
 - LangGraph
-- OpenAI API
-- AWS Bedrock
-- RAG Pipelines
+- AWS
 - AI Agents
 - Prompt Engineering
-- OpenSearch (Vector Database)
+- Vector Database
 - Boto3
 - FastAPI
 
