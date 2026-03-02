@@ -2,7 +2,6 @@
 
 I am a Generative AI Developer and AI Systems Builder focused on designing intelligent, production-ready applications powered by Large Language Models (LLMs). My work revolves around building RAG pipelines, AI agents, and scalable backend architectures that bridge research and real-world deployment.
 
-![Jayaditya's Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
