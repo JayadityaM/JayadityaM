@@ -17,8 +17,8 @@ that turn language models into production-ready solutions.
 
 <ul>
   <li>AI Agents & workflow orchestration</li>
-  <li>Retrieval-Augmented Generation (RAG)</li>
-  <li>LLM integrations (OpenAI / Bedrock)</li>
+  <li>Retrieval-Augmented Generation</li>
+  <li>LLM integrations</li>
   <li>Prompt optimization & evaluation</li>
   <li>Backend architecture for AI systems</li>
 </ul>
@@ -28,24 +28,39 @@ that turn language models into production-ready solutions.
 <h3 align="left">⚙️ Tools & Technologies</h3>
 
 <div align="left">
+  <!-- Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
+
+<br>
+
+<h4 align="left">🤖 AI / Generative AI Stack</h4>
+
+<p align="left">
+LangChain • LangGraph • OpenAI API • AWS Bedrock • RAG Pipelines • 
+AI Agents • Prompt Engineering • OpenSearch (Vector DB) • 
+Boto3 • FastAPI
+</p>
 
 ###
 
