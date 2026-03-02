@@ -1,72 +1,64 @@
-<h2 align="left">Hey 👋 I'm Jayaditya Mazumdar</h2>
-<h3 align="left">🧠 Generative AI Developer | AI Systems Builder | Web Engineer</h3>
+# Hi, I'm Jayaditya Mazumdar! 👋
 
-<p align="left">
-I specialize in building intelligent applications powered by Large Language Models (LLMs), 
-RAG pipelines, and AI agent workflows. I focus on designing scalable backend systems 
-that turn language models into production-ready solutions.
-</p>
+I am a Generative AI Developer and AI Systems Builder focused on designing intelligent, production-ready applications powered by Large Language Models (LLMs). My work revolves around building RAG pipelines, AI agents, and scalable backend architectures that bridge research and real-world deployment.
 
-###
+![Jayaditya's Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
+---
 
-###
+## 🚀 About Me
 
-<h3 align="left">🔬 What I Work On</h3>
+- 🤖 Passionate about Generative AI, LLM systems, and AI agent workflows.
+- 🧠 Building Retrieval-Augmented Generation (RAG) pipelines and semantic search systems.
+- ⚙️ Designing scalable backend architectures for AI-powered applications.
+- ☁️ Working with cloud AI services like AWS Bedrock.
+- 🔍 Focused on turning experimental AI prototypes into production-ready systems.
 
-<ul>
-  <li>AI Agents & workflow orchestration</li>
-  <li>Retrieval-Augmented Generation</li>
-  <li>LLM integrations</li>
-  <li>Prompt optimization & evaluation</li>
-  <li>Backend architecture for AI systems</li>
-</ul>
+---
 
-###
+## 🧠 AI Projects
 
-<h3 align="left">⚙️ Tools & Technologies</h3>
+- 🔹 LLM-powered RAG application with OpenSearch vector database.
+- 🔹 Multi-agent workflow using LangGraph.
+- 🔹 AI-assisted backend system built with FastAPI.
+- 🔹 Bedrock-based LLM integration with tool binding.
 
-<div align="left">
-  <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
+---
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
+## 🛠 Tech Stack
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=fastapi,python,flask,js,react,nodejs,express,mongodb,postgres,cpp,aws,git&perline=4)](https://skillicons.dev)
 
-<br>
+### 🤖 AI / GenAI Stack
+- LangChain
+- LangGraph
+- OpenAI API
+- AWS Bedrock
+- RAG Pipelines
+- AI Agents
+- Prompt Engineering
+- OpenSearch (Vector Database)
+- Boto3
+- FastAPI
 
-<h4 align="left">🤖 AI / Generative AI Stack</h4>
+---
 
-<p align="left">
-LangChain • LangGraph • OpenAI API • AWS Bedrock • RAG Pipelines • 
-AI Agents • Prompt Engineering • OpenSearch (Vector DB) • 
-Boto3 • FastAPI
-</p>
+## 🌱 Currently Exploring
 
-###
+- 🚀 Advanced AI Agent Architectures
+- 🔄 Workflow orchestration with LangGraph
+- 📊 LLM evaluation & prompt optimization techniques
+- 🧩 Scalable system design for AI applications
+- 🗄️ Vector databases & embedding strategies
 
-<h3 align="left">🎯 Goal</h3>
+---
 
-<p align="left">
-To build production-ready AI systems that are scalable, reliable, and practical — 
-bridging the gap between LLM research and real-world deployment.
-</p>
+
+## 📬 Get in Touch
+
+- 💼 LinkedIn: [Jayaditya Mazumdar](https://www.linkedin.com/in/jayaditya-mazumdar-0a5454278/)
+- 📧 Email: jayaditya.mazumdar04@gmail.com
+
+---
+
+Thanks for stopping by! Let's build intelligent systems that solve real-world problems. 🚀
